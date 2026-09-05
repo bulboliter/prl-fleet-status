@@ -2,9 +2,9 @@
   "worker": "9308018f6555e554badfe3cc36de3560",
   "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER",
   "hashrate_ths": 0,
-  "accept_rate": "n/a",
-  "temp": "24",
+  "accept_rate": "100",
+  "temp": "25",
   "power": "8.28",
-  "ts": 1788635643,
-  "detail": "n/a"
+  "ts": 1788635658,
+  "detail": "#0 RTX 4070 Ti SUPER 0TH/s 25C 21.36W | #1 RTX 3080 Ti 0TH/s 30C 20.53W"
 }
