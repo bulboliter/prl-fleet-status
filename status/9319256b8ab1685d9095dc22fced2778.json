@@ -1,10 +1,10 @@
 {
   "worker": "9319256b8ab1685d9095dc22fced2778",
   "gpu": "NVIDIA GeForce RTX 4090",
-  "hashrate_ths": 299.7366,
+  "hashrate_ths": 297.3103,
   "accept_rate": "100",
   "temp": "73",
-  "power": "450.45",
-  "ts": 1788652185,
-  "detail": "#0 RTX 4090 299.73TH/s 73C 449.92W"
+  "power": "450.35",
+  "ts": 1788652246,
+  "detail": "#0 RTX 4090 297.31TH/s 73C 448.79W"
 }
