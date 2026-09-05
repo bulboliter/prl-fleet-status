@@ -1,0 +1,10 @@
+{
+  "worker": "claude-test-push",
+  "gpu": "RTX 3050",
+  "hashrate_ths": 32.9,
+  "accept_rate": "100.0",
+  "temp": "84",
+  "power": "129.28",
+  "ts": 1788602991,
+  "detail": "#0 RTX 3050 32.9TH/s 84C 129W"
+}
