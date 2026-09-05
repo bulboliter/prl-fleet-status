@@ -1,10 +1,10 @@
 {
   "worker": "9a686f8addc4",
   "gpu": "NVIDIA GeForce RTX 3050",
-  "hashrate_ths": 32.1932,
+  "hashrate_ths": 32.9268,
   "accept_rate": "100",
-  "temp": "76",
-  "power": "129.69",
-  "ts": 1788603949,
-  "detail": "#0 RTX 3050 32.19TH/s 76C 129.59W"
+  "temp": "80",
+  "power": "129.86",
+  "ts": 1788603961,
+  "detail": "#0 RTX 3050 32.92TH/s 80C 129.85W"
 }
