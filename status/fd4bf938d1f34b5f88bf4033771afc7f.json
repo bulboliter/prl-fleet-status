@@ -3,8 +3,8 @@
   "gpu": "NVIDIA GeForce RTX 3060 Ti",
   "hashrate_ths": 60.6436,
   "accept_rate": "100",
-  "temp": "52",
-  "power": "11.20",
-  "ts": 1788637869,
-  "detail": "#0 RTX 3060 Ti 0TH/s 52C 11.35W"
+  "temp": "50",
+  "power": "10.66",
+  "ts": 1788637886,
+  "detail": "#0 RTX 3060 Ti 0TH/s 50C 10.55W"
 }
