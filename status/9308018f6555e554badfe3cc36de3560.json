@@ -4,7 +4,7 @@
   "hashrate_ths": 0,
   "accept_rate": "100",
   "temp": "25",
-  "power": "8.28",
-  "ts": 1788635658,
-  "detail": "#0 RTX 4070 Ti SUPER 0TH/s 25C 21.36W | #1 RTX 3080 Ti 0TH/s 30C 20.53W"
+  "power": "8.31",
+  "ts": 1788635680,
+  "detail": "#0 RTX 4070 Ti SUPER 0TH/s 25C 8.29W | #1 RTX 3080 Ti 0TH/s 29C 15.78W"
 }
