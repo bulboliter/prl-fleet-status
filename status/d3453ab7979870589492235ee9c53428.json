@@ -3,8 +3,8 @@
   "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER",
   "hashrate_ths": 0,
   "accept_rate": "100",
-  "temp": "29",
-  "power": "6.44",
-  "ts": 1788653430,
-  "detail": "#0 RTX 4070 Ti SUPER 0TH/s 29C 6.34W"
+  "temp": "28",
+  "power": "6.53",
+  "ts": 1788653441,
+  "detail": "#0 RTX 4070 Ti SUPER 0TH/s 28C 6.53W"
 }
