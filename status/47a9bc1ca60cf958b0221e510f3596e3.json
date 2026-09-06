@@ -1,10 +1,10 @@
 {
   "worker": "47a9bc1ca60cf958b0221e510f3596e3",
   "gpu": "NVIDIA GeForce RTX 4070 Ti",
-  "hashrate_ths": 140.7351,
+  "hashrate_ths": 141.0213,
   "accept_rate": "100",
   "temp": "62",
-  "power": "199.23",
-  "ts": 1788655164,
-  "detail": "#0 RTX 4070 Ti 140.73TH/s 62C 199.45W"
+  "power": "199.31",
+  "ts": 1788655225,
+  "detail": "#0 RTX 4070 Ti 141.02TH/s 62C 199.31W"
 }
