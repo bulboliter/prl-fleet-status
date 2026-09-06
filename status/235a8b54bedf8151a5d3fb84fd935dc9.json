@@ -1,10 +1,10 @@
 {
   "worker": "235a8b54bedf8151a5d3fb84fd935dc9",
   "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER",
-  "hashrate_ths": 166.1259,
-  "accept_rate": "100",
-  "temp": "64",
-  "power": "293.63",
-  "ts": 1788667190,
-  "detail": "#0 RTX 4070 Ti SUPER 166.12TH/s 64C 294.1W"
+  "hashrate_ths": 0,
+  "accept_rate": "n/a",
+  "temp": "28",
+  "power": "11.73",
+  "ts": 1788667353,
+  "detail": "n/a"
 }
