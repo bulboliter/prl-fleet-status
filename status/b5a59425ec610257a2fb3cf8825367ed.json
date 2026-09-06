@@ -1,10 +1,10 @@
 {
   "worker": "b5a59425ec610257a2fb3cf8825367ed",
   "gpu": "NVIDIA GeForce RTX 2070",
-  "hashrate_ths": 36.3471,
+  "hashrate_ths": 36.3227,
   "accept_rate": "100",
   "temp": "84",
-  "power": "173.01",
-  "ts": 1788656209,
-  "detail": "#0 RTX 2070 36.34TH/s 84C 172.59W"
+  "power": "175.45",
+  "ts": 1788656271,
+  "detail": "#0 RTX 2070 36.32TH/s 84C 175.21W"
 }
