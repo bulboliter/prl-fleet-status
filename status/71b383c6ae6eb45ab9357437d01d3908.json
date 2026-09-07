@@ -1,11 +1,11 @@
 {
   "worker": "71b383c6ae6eb45ab9357437d01d3908",
   "gpu": "NVIDIA GeForce RTX 5090 Laptop GPU",
-  "hashrate_ths": 151.202,
+  "hashrate_ths": 153.3057,
   "accept_rate": "100",
-  "temp": "65",
-  "power": "148.71",
+  "temp": "73",
+  "power": "149.78",
   "xmr_hs": "n/a",
-  "ts": 1788808669,
-  "detail": "#0 RTX 5090 Laptop GPU 151.2TH/s 65C 149.9W"
+  "ts": 1788808681,
+  "detail": "#0 RTX 5090 Laptop GPU 153.3TH/s 73C 149.15W"
 }
