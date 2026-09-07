@@ -3,9 +3,9 @@
   "gpu": "NVIDIA GeForce RTX 2070 SUPER",
   "hashrate_ths": 0,
   "accept_rate": "100",
-  "temp": "47",
-  "power": "44.00",
+  "temp": "46",
+  "power": "38.03",
   "xmr_hs": "n/a",
-  "ts": 1788779348,
-  "detail": "#0 RTX 2070 SUPER 0TH/s 47C 44.05W"
+  "ts": 1788779360,
+  "detail": "#0 RTX 2070 SUPER 0TH/s 46C 38.03W"
 }
