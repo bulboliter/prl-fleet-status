@@ -5,7 +5,7 @@
   "accept_rate": "100",
   "temp": "n/a",
   "power": "n/a",
-  "xmr_hs": "0",
-  "ts": 1788786726,
-  "detail": "#0 RTX 3060 Ti 0TH/s 0C 0W"
+  "xmr_hs": "n/a",
+  "ts": 1788786770,
+  "detail": "#0 RTX 3060 Ti 0TH/s 44C 38.64W"
 }
