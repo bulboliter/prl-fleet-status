@@ -3,9 +3,9 @@
   "gpu": "NVIDIA GeForce RTX 3060 Ti",
   "hashrate_ths": 0,
   "accept_rate": "n/a",
-  "temp": "43",
-  "power": "38.69",
-  "xmr_hs": "n/a",
-  "ts": 1788786623,
+  "temp": "n/a",
+  "power": "n/a",
+  "xmr_hs": "0",
+  "ts": 1788786690,
   "detail": "n/a"
 }
