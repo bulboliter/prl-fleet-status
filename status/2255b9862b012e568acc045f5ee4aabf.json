@@ -1,11 +1,11 @@
 {
   "worker": "2255b9862b012e568acc045f5ee4aabf",
   "gpu": "NVIDIA GeForce RTX 2070 SUPER",
-  "hashrate_ths": 50.9005,
+  "hashrate_ths": 50.8727,
   "accept_rate": "100",
-  "temp": "60",
-  "power": "258.21",
-  "xmr_hs": "1805.2",
-  "ts": 1788773731,
-  "detail": "#0 RTX 2070 SUPER 50.9TH/s 60C 258.16W"
+  "temp": "59",
+  "power": "254.10",
+  "xmr_hs": "1811.42",
+  "ts": 1788773793,
+  "detail": "#0 RTX 2070 SUPER 50.87TH/s 60C 260.12W"
 }
