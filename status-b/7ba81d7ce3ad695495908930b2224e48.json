@@ -3,7 +3,7 @@
   "gpu": "NVIDIA GeForce RTX 2070",
   "hashrate": 4.57,
   "unit": "g/s",
-  "xmr_hs": "1414.53",
-  "ts": 1788900027,
-  "detail": "#0 NVIDIA GeForce RTX 2070 172.301W 69C fan65%"
+  "xmr_hs": "1417.02",
+  "ts": 1788900088,
+  "detail": "#0 NVIDIA GeForce RTX 2070 165.386W 69C fan65%"
 }
