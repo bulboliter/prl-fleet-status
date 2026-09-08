@@ -1,9 +1,9 @@
 {
   "worker": "3f92085349c6e254be13a553c1492092",
-  "gpu": "n/a",
+  "gpu": "",
   "hashrate": 0,
   "unit": "",
-  "xmr_hs": "n/a",
-  "ts": 1788911874,
+  "xmr_hs": "0",
+  "ts": 1788911885,
   "detail": "n/a"
 }
