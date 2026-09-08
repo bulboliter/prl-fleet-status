@@ -4,8 +4,8 @@
   "hashrate_ths": 0,
   "accept_rate": "100",
   "temp": "37",
-  "power": "10.30",
+  "power": "10.13",
   "xmr_hs": "0",
-  "ts": 1788834295,
-  "detail": "#0 RTX 3060 Ti 0TH/s 38C 21.76W"
+  "ts": 1788834307,
+  "detail": "#0 RTX 3060 Ti 0TH/s 37C 10.01W"
 }
