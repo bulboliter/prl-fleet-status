@@ -3,7 +3,7 @@
   "gpu": "NVIDIA GeForce RTX 2070 SUPER",
   "hashrate": 5.05,
   "unit": "g/s",
-  "xmr_hs": "1384.46",
-  "ts": 1788915204,
-  "detail": "#0 NVIDIA GeForce RTX 2070 SUPER 180.768W 65C fan29%"
+  "xmr_hs": "1388.45",
+  "ts": 1788915266,
+  "detail": "#0 NVIDIA GeForce RTX 2070 SUPER 178.174W 67C fan33%"
 }
