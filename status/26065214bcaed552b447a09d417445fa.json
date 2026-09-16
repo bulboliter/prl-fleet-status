@@ -1,11 +1,11 @@
 {
   "worker": "26065214bcaed552b447a09d417445fa",
   "gpu": "NVIDIA GeForce RTX 3080",
-  "hashrate_ths": 111.6898,
+  "hashrate_ths": 111.7457,
   "accept_rate": "100",
   "temp": "80",
-  "power": "378.02",
-  "xmr_hs": "1505.04",
-  "ts": 1789562428,
-  "detail": "#0 RTX 3080 111.68TH/s 80C 378.7W"
+  "power": "378.80",
+  "xmr_hs": "1507.28",
+  "ts": 1789562490,
+  "detail": "#0 RTX 3080 111.74TH/s 80C 378.59W"
 }
