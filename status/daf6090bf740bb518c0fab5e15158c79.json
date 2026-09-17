@@ -3,9 +3,9 @@
   "gpu": "NVIDIA GeForce RTX 2060",
   "hashrate_ths": 0,
   "accept_rate": "n/a",
-  "temp": "54",
-  "power": "9.05",
+  "temp": "56",
+  "power": "9.09",
   "xmr_hs": "n/a",
-  "ts": 1789673264,
+  "ts": 1789673300,
   "detail": "n/a"
 }
