@@ -1,11 +1,11 @@
 {
   "worker": "fbe74bde410f5551876a083eed286382",
   "gpu": "NVIDIA GeForce RTX 2060",
-  "hashrate_ths": 42.3976,
+  "hashrate_ths": 42.2885,
   "accept_rate": "100",
-  "temp": "79",
-  "power": "164.03",
-  "xmr_hs": "1335.38",
-  "ts": 1789649304,
-  "detail": "#0 RTX 2060 42.39TH/s 79C 145.78W"
+  "temp": "78",
+  "power": "165.59",
+  "xmr_hs": "1339.84",
+  "ts": 1789649366,
+  "detail": "#0 RTX 2060 42.28TH/s 78C 165.07W"
 }
