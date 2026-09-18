@@ -1,12 +1,12 @@
 {
   "worker": "94da9437eaca935fbc4fff5fd11a7efb",
   "gpu": "NVIDIA GeForce RTX 3070",
-  "hashrate": 274.3716,
+  "hashrate": 271.9801,
   "unit": "Mh/s",
   "accept_rate": "100.0",
-  "temp": "68",
-  "power": "219.01",
-  "xmr_hs": "3783.03",
-  "ts": 1789762005,
-  "detail": "#0 nvidia_geforce_rtx_3070 68C 219W"
+  "temp": "69",
+  "power": "218.60",
+  "xmr_hs": "3706.05",
+  "ts": 1789762067,
+  "detail": "#0 nvidia_geforce_rtx_3070 69C 219W"
 }
