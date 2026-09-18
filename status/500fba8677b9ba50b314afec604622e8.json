@@ -1,11 +1,11 @@
 {
   "worker": "500fba8677b9ba50b314afec604622e8",
   "gpu": "NVIDIA GeForce RTX 3080 Ti",
-  "hashrate_ths": 117.2951,
+  "hashrate_ths": 117.7304,
   "accept_rate": "100",
   "temp": "65",
-  "power": "349.57",
-  "xmr_hs": "934.96",
-  "ts": 1789723873,
-  "detail": "#0 RTX 3080 Ti 117.29TH/s 65C 349.28W"
+  "power": "349.08",
+  "xmr_hs": "934.06",
+  "ts": 1789723935,
+  "detail": "#0 RTX 3080 Ti 117.73TH/s 65C 349.14W"
 }
