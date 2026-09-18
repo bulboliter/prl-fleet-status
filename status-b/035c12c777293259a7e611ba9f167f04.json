@@ -1,12 +1,12 @@
 {
   "worker": "035c12c777293259a7e611ba9f167f04",
   "gpu": "NVIDIA GeForce RTX 4070 SUPER",
-  "hashrate": 513.8872,
+  "hashrate": 512.5733,
   "unit": "Mh/s",
   "accept_rate": "98.2",
-  "temp": "74",
+  "temp": "76",
   "power": "219.45",
-  "xmr_hs": "2195.32",
-  "ts": 1789745352,
-  "detail": "#0 nvidia_geforce_rtx_4070_super 74C 219W"
+  "xmr_hs": "2212.6",
+  "ts": 1789745415,
+  "detail": "#0 nvidia_geforce_rtx_4070_super 76C 220W"
 }
