@@ -1,12 +1,12 @@
 {
   "worker": "4467c22dac080d57bc9dd4e9b1f1a2bc",
   "gpu": "NVIDIA GeForce RTX 5070",
-  "hashrate": 500.8351,
+  "hashrate": 500.1674,
   "unit": "Mh/s",
   "accept_rate": "94.4",
   "temp": "82",
-  "power": "250.09",
-  "xmr_hs": "986.47",
-  "ts": 1789739135,
+  "power": "250.30",
+  "xmr_hs": "985.54",
+  "ts": 1789739197,
   "detail": "#0 nvidia_geforce_rtx_5070 82C 250W"
 }
