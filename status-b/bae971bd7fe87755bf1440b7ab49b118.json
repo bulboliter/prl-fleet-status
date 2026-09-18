@@ -1,12 +1,12 @@
 {
   "worker": "bae971bd7fe87755bf1440b7ab49b118",
   "gpu": "NVIDIA GeForce RTX 4070",
-  "hashrate": 447.3935,
+  "hashrate": 447.6018,
   "unit": "Mh/s",
   "accept_rate": "98.9",
   "temp": "77",
-  "power": "198.88",
-  "xmr_hs": "909.73",
-  "ts": 1789758482,
+  "power": "199.26",
+  "xmr_hs": "909.99",
+  "ts": 1789758543,
   "detail": "#0 nvidia_geforce_rtx_4070 77C 199W"
 }
