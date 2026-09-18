@@ -1,11 +1,11 @@
 {
   "worker": "218a6d9255b2645f9cb5be1bedb04911",
   "gpu": "NVIDIA GeForce RTX 4080",
-  "hashrate_ths": 182.2573,
+  "hashrate_ths": 181.8235,
   "accept_rate": "100",
   "temp": "75",
-  "power": "319.55",
+  "power": "319.65",
   "xmr_hs": "0",
-  "ts": 1789723525,
-  "detail": "#0 RTX 4080 182.25TH/s 75C 319.62W"
+  "ts": 1789723586,
+  "detail": "#0 RTX 4080 181.82TH/s 75C 319.58W"
 }
