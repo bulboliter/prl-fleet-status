@@ -1,11 +1,11 @@
 {
   "worker": "0fc578f08a6f015dba9077b4ba04179b",
   "gpu": "NVIDIA GeForce RTX 3060 Ti",
-  "hashrate_ths": 54.8752,
+  "hashrate_ths": 54.9509,
   "accept_rate": "100",
   "temp": "85",
-  "power": "189.05",
-  "xmr_hs": "1746.56",
-  "ts": 1789712714,
-  "detail": "#0 RTX 3060 Ti 54.87TH/s 85C 188.48W"
+  "power": "188.36",
+  "xmr_hs": "1729.51",
+  "ts": 1789712777,
+  "detail": "#0 RTX 3060 Ti 54.95TH/s 85C 189.05W"
 }
