@@ -3,9 +3,9 @@
   "gpu": "NVIDIA GeForce RTX 3070 Ti",
   "hashrate_ths": 0,
   "accept_rate": "n/a",
-  "temp": "33",
-  "power": "18.70",
-  "xmr_hs": "n/a",
-  "ts": 1789796843,
+  "temp": "35",
+  "power": "18.76",
+  "xmr_hs": "2586.24",
+  "ts": 1789796881,
   "detail": "n/a"
 }
