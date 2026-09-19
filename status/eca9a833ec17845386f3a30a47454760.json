@@ -1,11 +1,11 @@
 {
   "worker": "eca9a833ec17845386f3a30a47454760",
   "gpu": "NVIDIA GeForce RTX 5060 Ti",
-  "hashrate_ths": 91.4967,
+  "hashrate_ths": 91.4543,
   "accept_rate": "100.0",
   "temp": "80",
-  "power": "179.99",
-  "xmr_hs": "718.50",
-  "ts": 1789846216,
+  "power": "180.00",
+  "xmr_hs": "718.87",
+  "ts": 1789846278,
   "detail": "#0 nvidia_geforce_rtx_5060_ti 80C 180W"
 }
