@@ -1,11 +1,11 @@
 {
   "worker": "05371203d5578a52ab52f41e17e368fa",
   "gpu": "NVIDIA GeForce RTX 3070 Ti",
-  "hashrate_ths": 86.5096,
-  "accept_rate": "98.1",
+  "hashrate_ths": 86.489,
+  "accept_rate": "98.2",
   "temp": "73",
-  "power": "309.22",
-  "xmr_hs": "363.30",
-  "ts": 1789801380,
+  "power": "309.10",
+  "xmr_hs": "339.50",
+  "ts": 1789801447,
   "detail": "#0 nvidia_geforce_rtx_3070_ti 73C 309W"
 }
