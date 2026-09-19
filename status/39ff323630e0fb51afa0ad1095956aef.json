@@ -1,11 +1,11 @@
 {
   "worker": "39ff323630e0fb51afa0ad1095956aef",
   "gpu": "NVIDIA GeForce RTX 2080 Ti",
-  "hashrate_ths": 115.514,
+  "hashrate_ths": 115.068,
   "accept_rate": "100.0",
   "temp": "78",
-  "power": "148.29",
-  "xmr_hs": "1485.33",
-  "ts": 1789801176,
-  "detail": "#0 nvidia_geforce_rtx_2080_ti 78C 149W | #1 nvidia_geforce_rtx_3070_ti 72C 189W"
+  "power": "146.43",
+  "xmr_hs": "1474.08",
+  "ts": 1789801239,
+  "detail": "#0 nvidia_geforce_rtx_2080_ti 78C 148W | #1 nvidia_geforce_rtx_3070_ti 72C 191W"
 }
