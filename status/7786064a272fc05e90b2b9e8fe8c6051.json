@@ -1,11 +1,11 @@
 {
   "worker": "7786064a272fc05e90b2b9e8fe8c6051",
   "gpu": "NVIDIA GeForce RTX 2060",
-  "hashrate_ths": 44.5106,
+  "hashrate_ths": 44.8256,
   "accept_rate": "100.0",
   "temp": "75",
-  "power": "166.85",
-  "xmr_hs": "751.81",
-  "ts": 1789830593,
-  "detail": "#0 nvidia_geforce_rtx_2060 75C 166W"
+  "power": "164.17",
+  "xmr_hs": "754.91",
+  "ts": 1789830717,
+  "detail": "#0 nvidia_geforce_rtx_2060 75C 167W"
 }
