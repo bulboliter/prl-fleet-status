@@ -1,11 +1,11 @@
 {
   "worker": "9c154eff560d",
   "gpu": "NVIDIA GeForce RTX 4070 SUPER",
-  "hashrate_ths": 317.7421,
+  "hashrate_ths": 316.9856,
   "accept_rate": "100.0",
-  "temp": "72",
-  "power": "129.82",
-  "xmr_hs": "3802.13",
-  "ts": 1789791271,
-  "detail": "#0 nvidia_geforce_rtx_4070_super 71C 130W | #1 nvidia_geforce_rtx_4070_super 74C 130W | #2 nvidia_geforce_rtx_4070_super 78C 130W | #3 nvidia_geforce_rtx_4070_super 66C 130W"
+  "temp": "73",
+  "power": "129.83",
+  "xmr_hs": "4080.51",
+  "ts": 1789791305,
+  "detail": "#0 nvidia_geforce_rtx_4070_super 73C 130W | #1 nvidia_geforce_rtx_4070_super 75C 130W | #2 nvidia_geforce_rtx_4070_super 80C 130W | #3 nvidia_geforce_rtx_4070_super 67C 130W"
 }
