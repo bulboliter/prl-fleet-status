@@ -1,12 +1,12 @@
 {
   "worker": "414a0a4286b4",
   "gpu": "NVIDIA GeForce RTX 4060",
-  "hashrate": 456.9388,
+  "hashrate": 456.2786,
   "unit": "Mh/s",
   "accept_rate": "97.7",
-  "temp": "73",
+  "temp": "74",
   "power": "[N/A]",
-  "xmr_hs": "2700.95",
-  "ts": 1789778094,
-  "detail": "#0 nvidia_geforce_rtx_4060 73C 0W | #1 nvidia_geforce_rtx_4060 82C 0W"
+  "xmr_hs": "2699.58",
+  "ts": 1789778157,
+  "detail": "#0 nvidia_geforce_rtx_4060 74C 0W | #1 nvidia_geforce_rtx_4060 81C 0W"
 }
