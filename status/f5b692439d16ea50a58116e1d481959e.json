@@ -1,11 +1,11 @@
 {
   "worker": "f5b692439d16ea50a58116e1d481959e",
   "gpu": "NVIDIA GeForce RTX 2060 SUPER",
-  "hashrate_ths": 37.8818,
+  "hashrate_ths": 37.7882,
   "accept_rate": "90.9",
-  "temp": "88",
-  "power": "133.09",
-  "xmr_hs": "608.38",
-  "ts": 1789847850,
-  "detail": "#0 nvidia_geforce_rtx_2060_super 88C 134W"
+  "temp": "87",
+  "power": "129.12",
+  "xmr_hs": "609.76",
+  "ts": 1789847912,
+  "detail": "#0 nvidia_geforce_rtx_2060_super 87C 132W"
 }
